@@ -1,24 +1,11 @@
-# rendu-vuejs
+## Cours _Vue JS_
 
-## Project setup
-```
-npm install
-```
+<sub> > Rendu du traveil le 18/01/2023.<sub>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<br>
+<br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Réalisation d'une application "Téléphone"
+- Clavier
+- Contact
+- Journal
